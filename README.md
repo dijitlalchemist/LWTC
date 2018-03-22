@@ -1,6 +1,5 @@
 # LWTC
 LoGun Weapon Tracking Cloud(LWTC) v1.0 
-
 by Gary Wetter on Wednesday, Feb 21st, 2018
 
   	an OEM/AM weapon tracking system that allows guns to be tracked by law enforcement,
