@@ -7,7 +7,7 @@ by Gary Wetter on Wednesday, Feb 21st, 2018
 
 We moved this project to https://github.com/dijitlalchemy/LWTC.
 
-Orignal Concept As Seen Online https://twitter.com/empireofslop/status/966494823413964800. 
+Original Concept As Seen Online https://twitter.com/empireofslop/status/966494823413964800. 
 
 A COPY OF THIS PROJECT'S LICENSE IS ONLINE at <https://github.com/dijitlalchemist/LWTC/LICENSE>.
 
