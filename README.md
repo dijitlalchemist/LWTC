@@ -11,4 +11,8 @@ Orignal Concept As Seen Online https://twitter.com/empireofslop/status/966494823
 
 A COPY OF THIS PROJECT'S LICENSE IS ONLINE at <https://github.com/dijitlalchemist/LWTC/LICENSE>.
 
-Like Our Work? SUBSCRIBE to THE KING'S BADASS QUARTERLY at https://patreon.com/thekingofslop, and HELP US KEEP THIS PROJECT RUNNING... PLUS 7 LIMITED EDITION PRINTS by THE KING OF SLOP.
+
+
+LIKE OUR WORK...
+
+SUBSCRIBE to THE KING'S BADASS QUARTERLY at https://patreon.com/thekingofslop, and HELP US KEEP THIS PROJECT RUNNING... PLUS RECEIVE INSIGHTS and 7 LIMITED EDITION PRINTS by THE KING OF SLOP.
